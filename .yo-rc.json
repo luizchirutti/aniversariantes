@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "aniversariantes",
+    "libraryId": "59815b64-4747-413f-855d-542b20fbe0b1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "aniversariantes",
+    "solutionShortDescription": "aniversariantes description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
