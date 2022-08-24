@@ -1,0 +1,147 @@
+{
+    "__metadata": {
+      "id": "https://kumulus.sharepoint.com/sites/Lefosse-Dev/_api/SP.ListItemVersionfb3923e1-b082-42fb-842a-34a1c119c8d2",
+      "uri": "https://kumulus.sharepoint.com/sites/Lefosse-Dev/_api/SP.ListItemVersionfb3923e1-b082-42fb-842a-34a1c119c8d2",
+      "type": "SP.ListItemVersion"
+    },
+    "CreatedBy": {
+      "__deferred": {
+        "uri": "https://kumulus.sharepoint.com/sites/Lefosse-Dev/_api/SP.ListItemVersionfb3923e1-b082-42fb-842a-34a1c119c8d2/CreatedBy"
+      }
+    },
+    "Fields": {
+      "__deferred": {
+        "uri": "https://kumulus.sharepoint.com/sites/Lefosse-Dev/_api/SP.ListItemVersionfb3923e1-b082-42fb-842a-34a1c119c8d2/Fields"
+      }
+    },
+    "FileVersion": {
+      "__deferred": {
+        "uri": "https://kumulus.sharepoint.com/sites/Lefosse-Dev/_api/SP.ListItemVersionfb3923e1-b082-42fb-842a-34a1c119c8d2/FileVersion"
+      }
+    },
+    "Created": "2022-08-24T18:55:25",
+    "IsCurrentVersion": false,
+    "VersionId": 2560,
+    "VersionLabel": "5.0",
+    "ID": 15,
+    "ContentTypeId": {
+      "__metadata": {
+        "type": "SP.ContentTypeId"
+      },
+      "StringValue": "0x0100C8A297632EAB72429CBEA844625AEA0C00065245B8DFC41C428C75A68990EDCE37"
+    },
+    "Title": null,
+    "Modified": "2022-08-24T18:55:25Z",
+    "Author": {
+      "__metadata": {
+        "type": "SP.FieldUserValue"
+      },
+      "LookupId": 12,
+      "LookupValue": "Matheus Costa",
+      "Email": "matheus.costa@kumulus.com"
+    },
+    "Editor": {
+      "__metadata": {
+        "type": "SP.FieldUserValue"
+      },
+      "LookupId": 12,
+      "LookupValue": "Matheus Costa",
+      "Email": "matheus.costa@kumulus.com"
+    },
+    "OData__x005f_HasCopyDestinations": null,
+    "OData__x005f_CopySource": null,
+    "owshiddenversion": 5,
+    "WorkflowVersion": 1,
+    "OData__x005f_UIVersion": 2560,
+    "OData__x005f_UIVersionString": "5.0",
+    "Attachments": false,
+    "OData__x005f_ModerationStatus": 0,
+    "OData__x005f_ModerationComments": null,
+    "InstanceID": null,
+    "Order": 1500,
+    "GUID": "5bc5428d-41e8-421b-81ad-e12ad1de2fcb",
+    "WorkflowInstanceID": null,
+    "FileRef": "/sites/Lefosse-Dev/Lists/ProjetoItem/15_.000",
+    "FileDirRef": "/sites/Lefosse-Dev/Lists/ProjetoItem",
+    "Last_x005f_x0020_x005f_Modified": "2022-08-24T18:23:44Z",
+    "Created_x005f_x0020_x005f_Date": "2022-08-24T18:23:44Z",
+    "FSObjType": "0",
+    "SortBehavior": {
+      "__metadata": {
+        "type": "SP.FieldLookupValue"
+      },
+      "LookupId": 15,
+      "LookupValue": "0"
+    },
+    "UniqueId": "08bfbf61-2884-4cc0-a35f-0f00afa87580",
+    "ParentUniqueId": "{223FA479-5E74-4AAD-A6D8-4301F5FF7E72}",
+    "SyncClientId": {
+      "__metadata": {
+        "type": "SP.FieldLookupValue"
+      },
+      "LookupId": 15,
+      "LookupValue": null
+    },
+    "ProgId": "",
+    "ScopeId": "{872FE844-F2C3-4340-A0F1-EB809D4E9C8C}",
+    "File_x005f_x0020_x005f_Type": null,
+    "MetaInfo": "",
+    "OData__x005f_Level": 1,
+    "OData__x005f_IsCurrentVersion": false,
+    "ItemChildCount": "0",
+    "FolderChildCount": "0",
+    "Restricted": "",
+    "OriginatorId": "",
+    "NoExecute": "0",
+    "ContentVersion": "0",
+    "OData__x005f_ComplianceFlags": "",
+    "OData__x005f_ComplianceTag": "",
+    "OData__x005f_ComplianceTagWrittenTime": "",
+    "OData__x005f_ComplianceTagUserId": "",
+    "AccessPolicy": "",
+    "OData__x005f_VirusStatus": "",
+    "OData__x005f_VirusVendorID": "",
+    "OData__x005f_VirusInfo": "",
+    "AppAuthor": null,
+    "AppEditor": null,
+    "SMTotalSize": {
+      "__metadata": {
+        "type": "SP.FieldLookupValue"
+      },
+      "LookupId": 962,
+      "LookupValue": ""
+    },
+    "SMLastModifiedDate": "2022-08-24T19:15:37Z",
+    "SMTotalFileStreamSize": "0",
+    "SMTotalFileCount": {
+      "__metadata": {
+        "type": "SP.FieldLookupValue"
+      },
+      "LookupId": 0,
+      "LookupValue": ""
+    },
+    "ComplianceAssetId": null,
+    "Area": {
+      "__metadata": {
+        "type": "SP.FieldLookupValue"
+      },
+      "LookupId": 1,
+      "LookupValue": "Seguros"
+    },
+    "Assunto": {
+      "__metadata": {
+        "type": "SP.FieldLookupValue"
+      },
+      "LookupId": 1,
+      "LookupValue": "Apólices"
+    },
+    "SolicitacaoQuestionamento": "Teste 24/08 2",
+    "SimNao": "Não",
+    "RespostaTarget": "Teste 24/08 2",
+    "Status": "Em andamento",
+    "Observacoes": null,
+    "IDProjeto": 8,
+    "FileLeafRef": "15_.000",
+    "OData__x005f_CommentFlags": "",
+    "OData__x005f_CommentCount": ""
+  }
